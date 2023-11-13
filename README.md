@@ -1,2 +1,2 @@
 # front--cc
-cc's frontEnd
+学习前端的相关知识
